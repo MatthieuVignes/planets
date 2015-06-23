@@ -6,3 +6,7 @@ one more line to test a.out.
 
 A line added to Robert's local copy.
 
+This line is added by Matthieu.
+
+This is the merged version.
+
